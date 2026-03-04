@@ -1,5 +1,5 @@
 import pygame as pg
-
+#comment
 pg.init()
 pg.mixer.init()
 
